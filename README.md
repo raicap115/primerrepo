@@ -3,3 +3,4 @@
 ## Autor
 
 Raí Campos
+Jorge Pastor
